@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Jihan and I'm a student.</h2>
 
 ###
 
@@ -6,13 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arsenecoupang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsenecoupang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://mblogthumb-phinf.pstatic.net/MjAyNDAxMDVfMjk0/MDAxNzA0NDI4Nzg0NjAw.kgSKSuzzTg00PdgBeofCxfT8P3DHPtCybyJ264jqdO0g.3CUrVZVE1E1H6eRbUywLL5lWN8ISNBKVb9tier-XnfYg.GIF.speer11/%EA%B3%A0%EC%A3%A0%EA%B0%80%EB%AC%B8.gif?type=w800"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
