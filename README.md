@@ -3,7 +3,7 @@
 **Brief**
 * 🏛️ Student at **Korea Digital Media High School** (Dimigo)
 * 🇰🇷 Front-end Developer based in South Korea
-* ✉️ [your-email@example.com](mailto:suhoon222@outlook.com)
+* ✉️ [suhoon222@outlook.com](mailto:suhoon222@outlook.com)
 
 ---
 
