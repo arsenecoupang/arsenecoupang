@@ -18,7 +18,6 @@
   - Axios 기반 CRUD 로직 및 RESTful API 연동 실습
 
 **Activity**
-* **LUNA** | 16th Member (26.03 ~ Present)
 * **School Coding Club** | Member (24.04 ~ 25.05)
   - Flask 기반 팀 프로젝트 참여 및 Gitflow 브랜치 전략 도입
 
